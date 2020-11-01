@@ -1,0 +1,207 @@
+// https://wiki.alliedmods.net/Team_fortress_2_item_definition_indexes
+// https://wiki.teamfortress.com/wiki/List_of_item_attributes
+
+"custom_weapons_v3"
+{
+	"STEAM_0:1:47981866" // brick
+	{
+		"201" // Sniper rifle
+		{
+			"preserve-attributes" 	"1"
+			"1"						"134;  4" // community sparkle
+			"2"						"2013; 2007 " // killstreak - cerebral discharge
+			"3"						"2014; 2" // killstreak sheen - Agonizing Emerald
+			"4"						"2025; 1" // killstreaks enabled
+			"5"						"542 ; 0" // item style override -- australium 
+			//"6"						"370 ;  17" // sunbeams
+		}
+		"752" // Heatmaker
+		{
+			"preserve-attributes" 	"1"
+			"1"						"134;  4" // community sparkle
+			"2"						"2013; 2004 " // killstreak - tornado
+			"3"						"2014; 1" // team sheen
+			"4"						"2025; 1" // killstreaks enabled
+		}
+	}
+	"STEAM_0:0:13498826" // 0xygen
+	{
+		"1098" // The Classic
+		{
+			"preserve-attributes" 	"1"
+			"1"						"134; 4" // community sparkle
+			"2"						"2013; 2007 " // killstreak - incinerator
+			"3"						"2014; 4" // killstreak sheen - Mean green
+			"4"						"2025; 1" // killstreaks enabled
+		}
+		"752" // Strange hitman's heatmaker
+		{
+			"preserve-attributes" 	"1"
+			"1"						"134; 4" // community sparkle
+			"2"						"2013; 2003 " // killstreak - cerebral discharge
+			"3"						"2014; 5" // killstreak sheen - Agonizing Emerald
+			"4"						"2025; 1" // killstreaks enabled
+		}
+	}
+
+	"STEAM_0:1:19997838" // Pandur
+	{
+		"14" // Stock sniper rifle
+		{
+			"preserve-attributes" 	"1"
+			"1"						"134; 4" // community sparkle
+		}
+	}
+	"STEAM_0:0:27384306" // Gamemaster
+	{
+		"201" // Sniper rifle
+		{
+			"preserve-attributes" 	"1"
+			"1"						"134;  4" // community sparkle
+			"2"						"2013; 2003 " // killstreak - cerebral discharge
+			"3"						"2014; 5" // killstreak sheen - Agonizing Emerald
+			"4"						"2025; 1" // killstreaks enabled
+			"5"						"542 ; 1" // item style override -- australium 
+		}
+		"881" // Rust botkiller sniper rifle
+		{
+			"preserve-attributes" 	"1"
+			"1"						"134; 4" // community sparkle
+			"2"						"2013; 2003 " // killstreak - cerebral discharge
+			"3"						"2014; 5" // killstreak sheen - Agonizing Emerald
+			"4"						"2025; 1" // killstreaks enabled
+		}
+		"230" // Sydney Sleeper
+		{
+			"preserve-attributes" 	"1"
+			"1"						"134 ; 4" // community sparkle
+			"2"						"280 ; 2" // override projectile -- rockets
+		}
+		"626" // Swagman swatter
+		{
+			"preserve-attributes" 	"0"
+			"1"						"142 ; 9031664" // set item tint rgb
+			"2"						"261 ; 9031664" // set item tint rgb
+			"3"						"370 ; 62" // disco beat down or miami nights
+		}
+		"30629" // Support Spurs
+		{
+			"preserve-attributes" 	"0"
+			"1"						"142 ; 9031664" // set item tint rgb
+			"2"						"261 ; 9031664" // set item tint rgb
+		}
+		//"*"
+		//{
+		//	"preserve-attributes" "1"
+		//	"1"						"2025; 1" // killstreaks enabled
+		//}
+	}
+	"*"
+	{
+		//"*"
+		//{
+		//	"preserve-attributes" "1"
+		//	"1"						"2025; 1" // killstreaks enabled
+		//}
+		"16" // SMG
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"58" // Jarate
+		{
+			"1"				"25 ; 0" // ammo penalty
+			"2"				"279 ; 0" // 100% grenade ammo penalty	
+		}
+		"230" // Sydney Sleeper
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"77 ; 0" // 100% ammo primary penalty	
+		}
+		"203" // Modifiable SMG
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"751" // Carbine
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"1083" // Festive Jarate
+		{
+			"1"				"25 ; 0" // ammo penalty
+			"2"				"279 ; 0" // 100% grenade ammo penalty	
+		}
+		"1105" // Self aware beauty mark
+		{
+			"1"				"25 ; 0" // ammo penalty
+			"2"				"279 ; 0" // 100% grenade ammo penalty
+		}
+		"1149" // Festive SMG
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"15001" // Woodsy Woodmaker
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"15022" // Plaid Potshotter
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"15032" // Treadplate Tormenter
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"15037" // Team Sprayer
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"15058" // Low Profile
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"15076" // Wildwood
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"15110" // Blue Mew
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"15134" // High Roller's
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		"15153" // Blitzkrieg
+		{
+			"1"				"1 ; 0" // damage multipler to 0% dmg
+			"2"				"79 ; 0" // 100% ammo secondary penalty	
+			"3"				"3 ; 0" // 100% clip size penalty
+		}
+		
+
+	}
+}
